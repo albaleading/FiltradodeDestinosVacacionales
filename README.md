@@ -2,11 +2,11 @@
 
 Clasificación de destinos vacacionales según criterios del consumidor
 
-1.Objetivo
-2.Resumen de desarrollo
-3.Fuentes de datos
-4.Ficheros y carpetas
-5.Librerías
+1. Objetivo
+2. Resumen de desarrollo
+3. Fuentes de datos
+4. Ficheros y carpetas
+5. Librerías
 
 ## Objetivo
 Para mejorar la experiencia a la hora de buscar viajes y con el objetivo de que se puedan hacer filtraciones más personalizadas, he decidido hacer una primera clasificación de las 50 ciudades más visitadas del mundo (ampliación a posteriori en caso de que sea viable) según ciertos criterios que puedan interesar a los viajantes. <br>
